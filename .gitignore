@@ -1,0 +1,42 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Grunt intermediate storage
+.grunt
+
+# Bower dependency directory
+bower_components
+
+# node_modules
+node_modules
+
+# JSPM packages directory
+jspm_packages
+
+# System directories
+.git
+.idea
+.vscode
+
+# Compiled files
+dist
+build
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+#dotenv files
+.env
+*.env
